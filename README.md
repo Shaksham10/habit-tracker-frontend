@@ -52,6 +52,26 @@ src/
 
 ```
 
+# Screenshots
+
+## Dashboard
+
+![Dashboard](./screenshots/Dashboard.png)
+
+---
+
+## Analytics
+
+![Analytics](./screenshots/Analytics.png)
+
+---
+
+## Settings
+
+![Settings](./screenshots/Settings.png)
+
+---
+
 ## Key Concepts Learned
 
 **React**
@@ -127,12 +147,12 @@ https://github.com/Shaksham10/habit-tracker-backend
 
 # Future Improvements
 
-Authentication system
-Real streak tracking
-Persistent analytics
-Dark mode
-Habit reminders
-Backend deployment
+Authentication system,
+Real streak tracking,
+Persistent analytics,
+Dark mode,
+Habit reminders,
+Backend deployment.
 
 ---
 
